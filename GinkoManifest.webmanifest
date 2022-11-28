@@ -1,0 +1,23 @@
+{
+  "name": "Bus",
+  "short_name": "Bus",
+  "description": "Progressive Web App that lists Bus.",
+  "icons": [
+    {
+      "src": "icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    // ...
+    {
+      "src": "icons/maskable_icon.png",
+      "sizes": "274x274",
+      "type": "image/png",
+      "purpose":
+    }
+  ],
+  "start_url": "https://mariondutinfo.github.io/PWA/",
+  "display": "fullscreen",
+  "theme_color": "#B12A34",
+  "background_color": "#B12A34"
+}
