@@ -11,8 +11,7 @@
     {
       "src": "icons/maskable_icon.png",
       "sizes": "274x274",
-      "type": "image/png",
-      "purpose":
+      "type": "image/png"
     }
   ],
   "start_url": "https://mariondutinfo.github.io/PWA/",
